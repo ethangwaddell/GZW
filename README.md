@@ -1,6 +1,7 @@
 # GZWRPC
 
-[Download here](https://github.com/ethangwaddell/GZW/releases)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/ethangwaddell/gzw?color=grey&label=Latest%20Release&logo=github)](https://github.com/ethangwaddell/gzw/releases)
+[![GitHub release (latest by SemVer)](https://img.shields.io/github/downloads/ethangwaddell/gzw/latest/total?color=cyan&label=Downloads&logo=github)](https://github.com/ethangwaddell/gzw/releases)
 
 GZWRPC is a Rich Presence python application designed to showcase custom status information for Gray Zone Wafare on Discord.
 
